@@ -1,4 +1,4 @@
-![Initia Banner 3000x1000](https://github.com/BlockchainsHub/Testnet/assets/77204008/1ea3aade-f38d-4057-8e6e-ab349bf0ab7e)
+
 
 # Initia Node Guide
 This guide will assist you in the installation process of the Initia node.
